@@ -23,5 +23,54 @@ This knowledge base provides general health education, not diagnosis, triage or 
 For personal symptoms, medication questions, pregnancy-related concerns, chronic conditions or changes to treatment, consult a qualified healthcare professional. For severe, sudden or potentially life-threatening symptoms, contact local emergency services immediately.
 Do not start, stop or change prescribed medication based only on chatbot information.
 
+TOPIC 5: ADDITIONAL NUTRITION INFORMATION
+A balanced diet includes a variety of fruits, vegetables, whole grains, pulses, nuts and suitable protein sources. Choose a variety of minimally processed foods.
+
+Banana:
+Bananas provide carbohydrates for energy and contain potassium and vitamin B6. They can be included in a balanced diet or eaten as a convenient snack.
+
+Amla (Indian gooseberry):
+Amla contains vitamin C and other plant compounds. Vitamin C supports normal immune function and helps the body absorb iron from plant foods. Amla is a food, not a cure or treatment for disease.
+
+Other vitamin C-rich fruits:
+Guava and citrus fruits are also dietary sources of vitamin C.
+
+TOPIC 6: VEGETARIAN PROTEIN
+Vegetarian protein sources include lentils and dal, chickpeas, kidney beans, soybeans, tofu, tempeh, peas, nuts and seeds. Dairy foods such as milk, curd and paneer also provide protein for people who include dairy in their diet.
+A varied vegetarian diet can include different protein sources across meals. People following fully vegan diets should pay attention to reliable vitamin B12 sources, such as fortified foods or supplements recommended by a healthcare professional.
+
+TOPIC 7: FOOD AND EXERCISE
+Foods containing carbohydrates, such as bananas, oats and whole-grain bread, can provide energy before exercise.
+After exercise, a balanced meal containing protein and carbohydrates can support recovery. Examples include dal with rice, paneer with roti, tofu with rice, or curd with oats.
+Individual food needs vary with activity, health and personal circumstances. These are general examples, not a personalized meal plan.
+
+TOPIC 8: VITAMINS AND MINERALS
+Vitamin C:
+Vitamin C supports normal immune function, collagen production and iron absorption. Food sources include amla, guava, citrus fruits and vegetables.
+
+Iron:
+Plant sources include lentils, beans, chickpeas, leafy vegetables and fortified cereals. Eating vitamin C-rich foods with plant sources of iron can improve iron absorption.
+
+Calcium:
+Sources include milk, curd, calcium-fortified alternatives and calcium-set tofu.
+
+Vitamin B12:
+Sources include dairy products, eggs and fortified foods. People following vegan diets need a reliable source of vitamin B12.
+
+TOPIC 9: HYDRATION AND HEALTHY HABITS
+Drink water regularly throughout the day. Fluid needs vary with activity, weather and individual health.
+Choosing water instead of sugary drinks can help reduce added sugar intake. A balanced diet, adequate sleep and regular physical activity are useful parts of a healthy lifestyle.
+
 CHATBOT RESPONSE RULE
 Answer only from the retrieved knowledge base. If the documents do not contain the answer, clearly say that the information was not found in the available documents. Do not invent medical facts, diagnose conditions, recommend medication doses or replace professional care.
+
+HEALTH INFORMATION DISCLAIMER
+This knowledge base provides general educational information. It does not diagnose diseases, prescribe treatment or replace professional medical advice. Individual nutritional and exercise needs can vary.
+
+REFERENCE SOURCES
+WHO Healthy Diet: https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+WHO Physical Activity: https://www.who.int/news-room/fact-sheets/detail/physical-activity
+WHO Tobacco: https://www.who.int/news-room/fact-sheets/detail/tobacco
+NHS Vegetarian Diet: https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegetarian-diet/
+NIH Vitamin C: https://ods.od.nih.gov/factsheets/VitaminC-Consumer/
+ICMR-NIN Dietary Guidelines: https://www.nin.res.in/downloads/DietaryGuidelinesforNINwebsite.pdf
