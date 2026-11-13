@@ -1,0 +1,27 @@
+MEDIGUIDE AI — HEALTHCARE KNOWLEDGE BASE
+Purpose: General educational information only. This document is not a medical diagnosis or treatment guide.
+
+TOPIC 1: HEALTHY DIET
+A healthy diet helps protect against malnutrition and noncommunicable diseases. A varied diet can include vegetables, fruits, legumes, nuts and whole grains. The balance and amount of food a person needs can vary with age, activity, culture and health circumstances.
+WHO guidance for people older than 10 years includes consuming at least 400 grams of fruits and vegetables per day. WHO recommends limiting free sugars to less than 10% of total daily energy intake, with a further reduction to below 5% providing additional health benefits. Adults should keep salt intake below 5 grams per day. A healthy diet also limits saturated fats and trans fats.
+Practical habits include choosing a variety of minimally processed foods, eating fruit and vegetables regularly, and limiting foods high in salt, free sugars and unhealthy fats. Individual dietary needs differ; people with medical conditions should seek advice from a qualified healthcare professional.
+Source: World Health Organization, Healthy diet fact sheet: https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+
+TOPIC 2: PHYSICAL ACTIVITY
+Physical activity includes movement during leisure time, transport, work, household tasks and play. Regular physical activity supports physical and mental health and can help prevent and manage noncommunicable diseases.
+For adults, WHO recommends at least 150 to 300 minutes of moderate-intensity aerobic physical activity per week, or at least 75 to 150 minutes of vigorous-intensity activity, or an equivalent combination. Adults should also do muscle-strengthening activities at moderate or greater intensity involving all major muscle groups on 2 or more days a week.
+Some activity is better than none. People can begin with manageable activity and increase gradually according to their ability. Recommendations differ for children, adolescents, older adults, pregnant people and people living with disabilities or chronic conditions.
+Source: World Health Organization, Physical activity fact sheet: https://www.who.int/news-room/fact-sheets/detail/physical-activity
+
+TOPIC 3: TOBACCO
+All forms of tobacco are harmful, and there is no safe level of exposure to tobacco. Tobacco use is a major risk factor for cardiovascular and respiratory diseases, many cancers and other health conditions. Exposure to second-hand tobacco smoke also causes serious harm.
+Quitting tobacco reduces health risks. People who want to stop using tobacco can seek support from qualified healthcare professionals or recognized tobacco-cessation services. This chatbot does not provide individualized cessation medication advice.
+Source: World Health Organization, Tobacco fact sheet: https://www.who.int/news-room/fact-sheets/detail/tobacco
+
+TOPIC 4: GENERAL HEALTH INFORMATION AND WHEN TO SEEK HELP
+This knowledge base provides general health education, not diagnosis, triage or treatment. Symptoms can have many causes and the correct response depends on a person's individual circumstances.
+For personal symptoms, medication questions, pregnancy-related concerns, chronic conditions or changes to treatment, consult a qualified healthcare professional. For severe, sudden or potentially life-threatening symptoms, contact local emergency services immediately.
+Do not start, stop or change prescribed medication based only on chatbot information.
+
+CHATBOT RESPONSE RULE
+Answer only from the retrieved knowledge base. If the documents do not contain the answer, clearly say that the information was not found in the available documents. Do not invent medical facts, diagnose conditions, recommend medication doses or replace professional care.
